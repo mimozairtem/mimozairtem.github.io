@@ -1,9 +1,18 @@
 ---
 layout: post
-title: Example post
+title: My Example Post
 ---
 
-In this post, I'll show how to create a helpful histogram of some synthetic data. 
+In this post, I'll show how to create a helpful histogram of some synthetic data:)
+
+- bulleted lists
+- more list item
+
+1. Numbered 
+2. Lists
+3. Another item
+
+**Bold** and *italic*
 
 ## Generate Synthetic Data
 
