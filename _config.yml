@@ -9,7 +9,7 @@ name: My Blog for PIC16B
 description: Mimoza Irtem
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/mimozairtem/mimozairtem.github.io/master/images/ucla-math.png
+avatar: https://raw.githubusercontent.com/mimozairtem/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: PIC16B/pic16b.github.io # replace with your repo
+  github: mimozairtem/mimozairtem.github.io # replace with your repo
   instagram:
   linkedin:
   pinterest:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://mimozairtem.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
