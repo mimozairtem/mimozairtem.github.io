@@ -3,7 +3,7 @@ layout: post
 title: Activity - Getting Started with Jekyll
 ---
 
-In this post, we'll get set up with [Jekyll](https://jekyllrb.com/). Jekyll is a *static site converter*, which you can use to turn plaintext documents into attractive webpages. 
+HUHUHHUU In this post, we'll get set up with [Jekyll](https://jekyllrb.com/). Jekyll is a *static site converter*, which you can use to turn plaintext documents into attractive webpages. 
 
 ## Pre-Work: Install Jekyll
 
